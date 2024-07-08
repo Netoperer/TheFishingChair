@@ -1,0 +1,13 @@
+Items: {
+	Chair: {
+		Tooltip: ""
+		DisplayName: Chair
+	}
+}
+
+Buffs: {
+	ChairMountBuff: {
+		DisplayName: Chair Mount Buff
+		Description: Mods.TheFishingChair.Buffs.ChairMountBuff.Description
+	}
+}
